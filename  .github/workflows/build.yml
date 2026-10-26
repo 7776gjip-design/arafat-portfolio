@@ -1,4 +1,4 @@
-name: Build Arafat APK
+name: Build Android APK
 
 on:
   workflow_dispatch:
